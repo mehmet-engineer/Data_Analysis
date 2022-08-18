@@ -1,5 +1,5 @@
-# Veri_Analizi
-Python ile Veri Analizi ve veri Görselleştirme uygulamaları mevcuttur. Numpy, Pandas ve Matplotlib kütüphaneleriyle yapılan bazı veri analizleri derlenmiştir.
+# Data Analysis with Python
+Data Analysis and Data Visualization applications are available with Python. Some data analysis with Numpy, Pandas and Matplotlib libraries has been compiled.
 
 ![resim](https://github.com/mehmet-engineer/Veri_Analizi/blob/master/Matplotlib/c1.png)
 ![resim](https://github.com/mehmet-engineer/Veri_Analizi/blob/master/Matplotlib/c2.png)
